@@ -2,7 +2,7 @@
 Dog App Walkthrough &amp; Auth
 
 
-<img src="Dog_app_recap.gif" alt="dog app" class="responsive">
+<img src="Dog_app_recap.gif" alt="dog app" class="responsive" width="400">
 
 
 
@@ -10,5 +10,7 @@ Dog App Walkthrough &amp; Auth
 
 
 
+<img src="DOGAPP.gif" alt="dog app" class="responsive" width="400">
 
-![](DOGAPP.gif)
+
+
